@@ -26,4 +26,4 @@ A full-stack web application that analyzes PDF resumes and evaluates them agains
 
 Frontend: https://ai-resume-analyzer-01.netlify.app/
 
-Backend: https://ai-resume-analyzer-xjgn.onrender.com
+Backend: https://ai-resume-analyzer-xjgn.onrender.com/docs
